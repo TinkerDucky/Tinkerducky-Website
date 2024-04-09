@@ -5,7 +5,7 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "Blowfish"
+title = "Tinkerducky"
 # logo = "img/logo.png"
 description = "My awesome website"
 # copyright = "Copy, _right?_ :thinking_face:"
@@ -13,8 +13,8 @@ description = "My awesome website"
 dateFormat = "2 January 2006"
 
 [author]
-  name = "Your name here"
-  image = "img/blowfish_logo.png"
+  name = "Tinkderducky"
+  image = "img/tinkerducky_logo.png"
   headline = "I'm only human"
   bio = "A little bit about you"
   # links = [
