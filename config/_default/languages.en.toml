@@ -13,7 +13,7 @@ description = "My awesome website"
 dateFormat = "2 January 2006"
 
 [author]
-  name = "Tinkderducky"
+  name = "Tinkerducky"
   image = "img/tinkerducky_logo.png"
   headline = "I'm only human"
   bio = "A little bit about you"
