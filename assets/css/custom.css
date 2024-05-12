@@ -1,0 +1,4 @@
+:is(.dark .dark\:bg-neutral-900) {
+    --tw-bg-opacity:1;
+    background-color:rgba(var(--color-neutral-900), var(--tw-bg-opacity))
+  }
