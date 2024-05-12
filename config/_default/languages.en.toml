@@ -18,7 +18,8 @@ dateFormat = "2 January 2006"
   headline = "Quack!"
   bio = "Computer Scientiest who has too much rubber ducks."
   links = [
-    { instagram = "https://www.instagram.com/tinkerducky" }
+    { instagram = "https://www.instagram.com/tinkerducky" },
+    { twitch = "https://www.twitch.tv/tinkerducky" },
   ]
   # links = [
   #   { email = "mailto:hello@your_domain.com" },
