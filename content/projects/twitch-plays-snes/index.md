@@ -2,7 +2,6 @@
 title: "TwitchPlaysSNES"
 date: 2024-04-23T23:44:42+02:00
 draft: false
-thumbnail: ""
 ---
 
 
